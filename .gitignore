@@ -1,0 +1,6 @@
+# no .log amd .bd files
+*.db
+*.log
+# ignore directories
+target/
+bin/
